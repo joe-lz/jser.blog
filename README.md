@@ -7,9 +7,9 @@
 * 一人最多申请三个
 
 # 示例
-https://omb.jser.blog
-https://omb-api.jser.blog
-https://omb-file.jser.blog
+* https://omb.jser.blog
+* https://omb-api.jser.blog
+* https://omb-file.jser.blog
 
 # 如何申请
 ### 在当前项目中创建issues
