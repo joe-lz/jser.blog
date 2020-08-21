@@ -1,6 +1,6 @@
 ---
 name: "申请二级域名"
-about: Report a reproducible bug or regression.
+about: ～
 title: '申请: [网站名称]'
 labels: 'Status: Unconfirmed'
 
