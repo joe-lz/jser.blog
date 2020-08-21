@@ -1,6 +1,6 @@
 ---
 name: "申请二级域名"
-about: ～
+about: Use this template for tracking new features.
 title: '[申请]: [网站名称]'
 labels: 'Status: Unconfirmed'
 
