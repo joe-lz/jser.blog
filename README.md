@@ -10,8 +10,11 @@
 # 如何申请
 ### 在当前项目中创建issues
 1. 用户名：
-2. github: 
-3. 网站内容预览地址：
+
+2. github 地址:
+
+3. 网站地址：
+
 4. 申请的二级域名名称为：
 
 [立即申请](https://github.com/joe-lz/jser.blog/issues/new)
